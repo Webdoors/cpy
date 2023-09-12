@@ -40,4 +40,3 @@ If the operation is successful, you'll receive a message indicating the success 
 ## Support
 
 For any issues or questions related to the `cpy` command, please [contact us](mailto:support@copy-paste.online).
-```
